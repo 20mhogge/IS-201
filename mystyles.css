@@ -1,0 +1,59 @@
+body{
+    background-color:rgba(255, 217, 0, 0.642);
+}
+
+.tableaustyle{
+    display: block;
+    margin: auto;
+}
+
+.common{
+    Position: absolute;
+}
+
+h1{ 
+    font-size: 150%;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h2{ 
+    font-size: 150%;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+ol{
+    background-color:rgba(135, 36, 177, 0.941);
+    font-size: large;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.img-center{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+.video{ 
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+.header{
+    top: 50px;
+    font-size: 400%;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.footer{
+    bottom: 0px;
+    font-size: 150%;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
